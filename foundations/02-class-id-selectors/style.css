@@ -1,0 +1,20 @@
+.same{
+    background-color: pink;
+    font-family: 'Verdana','sans-serif';
+    font-family: 'DejaVu', 'sans-serif'
+}
+
+#id2{
+    color: blue;
+    font-size: 32px;
+}
+
+#id4{
+    background-color: lightgreen;
+    font-style: bold;
+    font-size: 24px;
+}
+
+.cool{
+    font-size: 24px;
+}
